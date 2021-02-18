@@ -1,0 +1,11 @@
+h1{
+   font-size: 20;
+   color: red;
+
+}
+
+.etudiant{
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+}
